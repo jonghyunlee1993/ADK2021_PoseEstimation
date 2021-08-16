@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = ssh://pi@green19880.gonetis.com/media/pi/data1
